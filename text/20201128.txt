@@ -1,0 +1,40 @@
+Here is my first time to learn GITKraken.
+master
+
+master branch has been switched into.
+master
+now d new branch named dev1 is created.
+dev1
+
+here a new branch named dev2 has been created from master.
+dev2
+To switch to an existing branch, you run the $ git checkout $ command.
+dev1
+
+at next time branch dev2 will be merged into branch master
+dev2
+
+this time a new branch named todelete has been created.
+next time branch todelete will be merged into master and deleted.
+todelete
+
+branch todelete has been deleted.
+however its text remained.
+master
+
+next time branch master will be merged into branch dev1 so that dev1 will have those changes.
+master
+
+
+
+
+next time it will switch to an existing branch.
+dev1
+
+
+dev1 can be deleted without being fully merged.
+master
+
+a new branch named hubmaster has been created from remote.
+hubmaster
+
