@@ -38,3 +38,5 @@ master
 a new branch named hubmaster has been created from remote.
 hubmaster
 
+text is modifitied at the remote 
+remote master
